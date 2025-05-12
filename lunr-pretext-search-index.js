@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Some Examples",
-  "body": " Some Examples  We are going to take a look at some of the interesting places data is applied in the real world. The advent of modern computation has enabled us to use large datasets.    Social Media   Some social media companies   logos for some of the largest social media companies      Professional Sports   Some sports teams using data   logos for some of the sports teams using data      Big Tech Firms    Hospitals     Many, many, many more     "
+  "body": " Some Examples  We are going to take a look at some of the interesting places data is applied in the real world. The advent of modern computation has enabled us to use large datasets.    Social Media   Some social media companies   logos for some of the largest social media companies      Professional Sports   Some sports teams using data   logos for some of the sports teams using data      Big Tech Firms    Hospitals     Many, many, many more       Here's a theorem with     The proof is trivial.    "
 },
 {
   "id": "social-media-logos",
@@ -44,6 +44,15 @@ var ptx_lunr_docs = [
   "number": "1.2.2",
   "title": "",
   "body": " Some sports teams using data   logos for some of the sports teams using data   "
+},
+{
+  "id": "thm-temp",
+  "level": "2",
+  "url": "sec-examples.html#thm-temp",
+  "type": "Theorem",
+  "number": "1.2.3",
+  "title": "",
+  "body": "  Here's a theorem with     The proof is trivial.   "
 },
 {
   "id": "sec-individuals",
@@ -115,16 +124,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Kinds of Variables",
-  "body": " Kinds of Variables  Text of section.  "
+  "body": " Kinds of Variables  We also need to make some distinctions between different kinds of variables. The reason is that we need different tools to interpret different kinds of data. For example, it makes sense to do mathematical operations, like taking an average, on numerical data values, like the heights of brothers. However, how would we take the average of the title of the brothers' favorite books?  Clearly we need different tools to make conclusions about these two fundamentally different kinds of variables. Let's formally define them. Warning: Some textbooks distinguish between many more kinds of variables. We will divide variables into only two types to keep focused on the most important ideas in statistics.    If a variable takes values that are numbers, and it makes sense to do mathematical operations on these numbers, the variable is called quantitative .      If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical operations on, the variable is called categorical .              "
 },
 {
-  "id": "ch-pictures",
+  "id": "def-quantitative",
+  "level": "2",
+  "url": "sec-variables.html#def-quantitative",
+  "type": "Definition",
+  "number": "1.4.1",
+  "title": "",
+  "body": "  If a variable takes values that are numbers, and it makes sense to do mathematical operations on these numbers, the variable is called quantitative .   "
+},
+{
+  "id": "def-categorical",
+  "level": "2",
+  "url": "sec-variables.html#def-categorical",
+  "type": "Definition",
+  "number": "1.4.2",
+  "title": "",
+  "body": "  If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical operations on, the variable is called categorical .   "
+},
+{
+  "id": "sec-variables-6",
+  "level": "2",
+  "url": "sec-variables.html#sec-variables-6",
+  "type": "Example",
+  "number": "1.4.3",
+  "title": "",
+  "body": "         "
+},
+{
+  "id": "sec-pictures-normal",
   "level": "1",
-  "url": "ch-pictures.html",
-  "type": "Chapter",
-  "number": "2",
-  "title": "Picturing Distributions",
-  "body": " Picturing Distributions   Let's get started by looking at the fundamental thing we study in the course, data.     "
+  "url": "sec-pictures-normal.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Normal Distributions",
+  "body": " Normal Distributions  Here's a picture of a normal distribution   "
 },
 {
   "id": "ch-descriptive",
