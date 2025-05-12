@@ -8,7 +8,7 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-sampling-intro.ptx" />
+  <xi:include href="sec-data-intro.ptx" />
 
   <xi:include href="sec-examples.ptx" />
   <xi:include href="sec-individuals.ptx" />
