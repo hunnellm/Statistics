@@ -84,6 +84,7 @@
   <sage>
     <input>
       A=matrix([[2,2],[3,4]])
+      show(A)
     </input>
     <output>
       
