@@ -52,7 +52,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Individuals and Variables",
-  "body": " Individuals and Variables  Text of section.  "
+  "body": " Individuals and Variables  We need to agree on some terminology for how we talk about data.   WARNING: Some of these terms are universal across different textbooks, some are not.    The individuals for a dataset are the collection of objects on whom we record measurements.      The variables are the features of the individuals that we record. They can be people, things, or more abstract concepts.    Admittedly, these definitions are a bit vague, but that allows them to apply in lots of situations. Let's make things more concrete with some specific examples.   Here's an example with people    Here's the solution       Here's an example with objects     Here's the solution      Here's an example with abstract things    Here's the solution     "
+},
+{
+  "id": "def-individuals",
+  "level": "2",
+  "url": "sec-individuals.html#def-individuals",
+  "type": "Definition",
+  "number": "1.3.1",
+  "title": "",
+  "body": "  The individuals for a dataset are the collection of objects on whom we record measurements.   "
+},
+{
+  "id": "def-",
+  "level": "2",
+  "url": "sec-individuals.html#def-",
+  "type": "Definition",
+  "number": "1.3.2",
+  "title": "",
+  "body": "  The variables are the features of the individuals that we record. They can be people, things, or more abstract concepts.   "
+},
+{
+  "id": "sec-individuals-7",
+  "level": "2",
+  "url": "sec-individuals.html#sec-individuals-7",
+  "type": "Example",
+  "number": "1.3.3",
+  "title": "",
+  "body": " Here's an example with people    Here's the solution    "
+},
+{
+  "id": "sec-individuals-8",
+  "level": "2",
+  "url": "sec-individuals.html#sec-individuals-8",
+  "type": "Example",
+  "number": "1.3.4",
+  "title": "",
+  "body": "  Here's an example with objects     Here's the solution    "
+},
+{
+  "id": "sec-individuals-9",
+  "level": "2",
+  "url": "sec-individuals.html#sec-individuals-9",
+  "type": "Example",
+  "number": "1.3.5",
+  "title": "",
+  "body": " Here's an example with abstract things    Here's the solution    "
 },
 {
   "id": "sec-variables",
