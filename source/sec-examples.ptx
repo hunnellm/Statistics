@@ -3,6 +3,51 @@
 <section xml:id="sec-examples" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Some Examples</title>
 
-  <p> Text of section. </p>
+  <p>We are going to take a look at some of the interesting places data is applied in the real world.
+    The advent of modern computation has enabled us to use large datasets.  
+  </p>
+  <ol>
+    <li>
+      <p>
+        Social Media
+      </p>
+      <figure xml:id="social-media-logos">
+        <caption>Some social media companies</caption>
+        <image width="50%" source="logos.png">
+        <shortdescription>
+        logos for some of the largest social media companies
+        </shortdescription>
+        </image>
+      </figure>
+    </li>
+    <li>
+      <p>
+        Professional Sports
+      </p>
+      <figure xml:id="sports-logos">
+        <caption>Some sports teams using data</caption>
+        <image width="50%" source="sports-logos.png">
+        <shortdescription>
+        logos for some of the sports teams using data
+        </shortdescription>
+        </image>
+      </figure>
+    </li>
+    <li>
+      <p>
+        Big Tech Firms
+      </p>
+    </li>
+    <li>
+      <p>
+        Hospitals
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>Many, many, many more</em>
+      </p>
+    </li>
+  </ol>
 
 </section>
