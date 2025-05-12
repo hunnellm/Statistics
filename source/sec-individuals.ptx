@@ -3,6 +3,70 @@
 <section xml:id="sec-individuals" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Individuals and Variables</title>
 
-  <p> Text of section. </p>
+  <p> We need to agree on some terminology for how we talk about data.
+     </p>
 
+  <p>
+    <alert>WARNING:</alert> Some of these terms are universal across different textbooks, some are not.
+  </p>   
+  <definition xml:id="def-individuals">
+    <statement>
+      <p>
+        The <term>individuals</term> for a dataset are the collection of objects on whom we record measurements.
+      </p>
+    </statement>
+  </definition>
+
+  <definition xml:id="def-">
+    <statement>
+      <p>
+        The <term>variables</term> are the features of the individuals that we record.
+        They can be people, things, or more abstract concepts.
+      </p>
+    </statement>
+  </definition>
+
+  <p>Admittedly, these definitions are a bit vague, but that allows them to apply in lots of situations.
+    Let's make things more concrete with some specific examples.
+  </p>
+
+  <example>
+    <statement><p>  Here's an example with people</p></statement>
+     <solution>
+    <p>
+      <p>
+        Here's the solution
+      </p>
+    </p>
+  </solution>
+  </example>
+ 
+
+  <example>
+    <statement>
+      <p>
+        Here's an example with objects
+      </p>
+    </statement>
+     <solution>
+    <p>
+      <p>
+        Here's the solution
+      </p>
+    </p>
+  </solution>
+  </example>
+ 
+
+  <example>
+    <statement><p>Here's an example with abstract things</p></statement>
+     <solution>
+    <p>
+      <p>
+        Here's the solution
+      </p>
+    </p>
+  </solution>
+  </example>
+ 
 </section>
