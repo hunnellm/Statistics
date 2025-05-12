@@ -25,7 +25,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Some Examples",
-  "body": " Some Examples  Text of section.  "
+  "body": " Some Examples  We are going to take a look at some of the interesting places data is applied in the real world. The advent of modern computation has enabled us to use large datasets.    Social Media   Some social media companies   logos for some of the largest social media companies      Professional Sports   Some sports teams using data   logos for some of the sports teams using data      Big Tech Firms    Hospitals     Many, many, many more     "
+},
+{
+  "id": "social-media-logos",
+  "level": "2",
+  "url": "sec-examples.html#social-media-logos",
+  "type": "Figure",
+  "number": "1.2.1",
+  "title": "",
+  "body": " Some social media companies   logos for some of the largest social media companies   "
+},
+{
+  "id": "sports-logos",
+  "level": "2",
+  "url": "sec-examples.html#sports-logos",
+  "type": "Figure",
+  "number": "1.2.2",
+  "title": "",
+  "body": " Some sports teams using data   logos for some of the sports teams using data   "
 },
 {
   "id": "sec-individuals",
