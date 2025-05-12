@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Introduction",
-  "body": " Introduction  Text of section.  "
+  "body": " Introduction  Data is all around us and plays an increasingly important role in our lives. Our goal in this course is to understand the role data plays in our lives, and more importantly how data helps us make better decisions in our lives.  Whether we are at work, coaching a child's team, or advocating for a policy change to the local government, using data provides a more rigorous approach to decision-making.  "
 },
 {
   "id": "sec-examples",
