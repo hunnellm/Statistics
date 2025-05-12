@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-pictures-normal" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Normal Distributions</title>
+
+  <p> Here's a picture of a normal distribution</p>
+  <interactive desmos = "azgodpycnt" width="100%" aspect="3:3" />
+
+</section>

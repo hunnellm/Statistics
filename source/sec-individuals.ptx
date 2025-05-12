@@ -87,7 +87,8 @@
       show(A)
     </input>
     <output>
-      A
+      [2,2]
+      [3,4]
     </output>
   </sage>
  

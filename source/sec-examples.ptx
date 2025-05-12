@@ -50,4 +50,18 @@
     </li>
   </ol>
 
+  <theorem xml:id="thm-temp">
+    <statement>
+      <p>
+        Here's a theorem with <m>\begin{bmatrix} 3 \amp 4 \\ 1 \amp 2 \end{bmatrix}</m>
+      </p>
+    </statement>
+    <proof>
+      <p>
+        The proof is trivial.
+      </p>
+    </proof>
+  </theorem>
+  
+
 </section>

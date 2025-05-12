@@ -8,6 +8,6 @@
   </introduction>
 
   <!-- include sections -->
-  <!--<xi:include href="sec-sampling-intro.ptx" />-->
+  <xi:include href="sec-pictures-normal.ptx" />
 
 </chapter>

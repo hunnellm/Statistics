@@ -3,6 +3,45 @@
 <section xml:id="sec-variables" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Kinds of Variables</title>
 
-  <p> Text of section. </p>
+  <p> We also need to make some distinctions between different kinds of variables.
+    The reason is that we need different tools to interpret different kinds of data.
+    For example, it makes sense to do mathematical operations, like taking an average, on numerical data values, like the heights of brothers.  However, how would we take the average of the title of the 
+    brothers' favorite books?
+  </p>
 
+  <p>
+    Clearly we need different tools to make conclusions about these two fundamentally different kinds of variables.
+    Let's formally define them.
+    <alert>Warning:</alert> Some textbooks distinguish between many more kinds of variables.
+    We will divide variables into only two types to keep focused on the most important ideas in statistics.
+  </p>
+  <definition xml:id="def-quantitative">
+    <statement>
+      <p>
+        If a variable takes values that are numbers, and it makes sense to do mathematical operations
+        on these numbers, the variable is called <term>quantitative</term>.
+      </p>
+    </statement>
+  </definition>
+  <definition xml:id="def-categorical">
+    <statement>
+      <p>
+        If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical
+        operations on, the variable is called <term>categorical</term>.
+      </p>
+    </statement>
+  </definition>
+
+  <example>
+    <statement>
+      <p>
+        
+      </p>
+    </statement>
+    <solution>
+      <p>
+        
+      </p>
+    </solution>
+  </example>
 </section>
