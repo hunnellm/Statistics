@@ -68,5 +68,26 @@
     </p>
   </solution>
   </example>
+
+  <table>
+    <title>Here's a table with some data in it</title>
+    <tabular>
+      <row>
+        <cell><emph>Cat. 1 </emph></cell> <cell>45</cell> <cell>55</cell> <cell>60</cell>
+      </row>
+      <row>
+        <cell><emph>Cat. 2 </emph></cell><cell>45</cell> <cell>55</cell> <cell>60</cell>
+      </row>
+    </tabular>
+  </table>
+
+  <sage>
+    <input>
+      A=matrix([[2,2],[3,4]])
+    </input>
+    <output>
+      
+    </output>
+  </sage>
  
 </section>
