@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-data" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Meet the Data</title>
+
+  <introduction>
+    <p> Let's get started by looking at the fundamental thing we study in the course, data. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-sampling-intro.ptx" />
+
+  <xi:include href="sec-examples.ptx" />
+  <xi:include href="sec-individuals.ptx" />
+  <xi:include href="sec-variables.ptx" />
+
+</chapter>

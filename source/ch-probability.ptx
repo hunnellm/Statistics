@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-sampling" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Sampling</title>
-  
+<chapter xml:id="ch-probability" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Probability</title>
 
   <introduction>
     <p> Let's get started by looking at the fundamental thing we study in the course, data. </p>
   </introduction>
 
   <!-- include sections -->
-  <!--<xi:include href="sec-sampling-intro.ptx" />-->
+  <!--<xi:include href="sec-sampling-intro.ptx" /> -->
 
 </chapter>

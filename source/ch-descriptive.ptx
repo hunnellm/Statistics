@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-sampling" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Sampling</title>
-  
+<chapter xml:id="ch-descriptive" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Describing Distributions with Numbers</title>
 
   <introduction>
     <p> Let's get started by looking at the fundamental thing we study in the course, data. </p>

@@ -5,14 +5,26 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>A Simplified Approach to the Elements of Statistics</title>
+    <subtitle>Statistics ideas to use in everyday life</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
+
+    <xi:include href="./ch-data.ptx" /> 
+
+
+    <xi:include href="./ch-pictures.ptx" /> 
+    <xi:include href="./ch-descriptive.ptx" /> 
     <xi:include href="./ch-sampling.ptx" />
+    <xi:include href="./ch-probability.ptx" /> 
+    <xi:include href="./ch-sampling-distributions.ptx" /> 
+    <xi:include href="./ch-hypothesis-tests.ptx" />  
+    <xi:include href="./ch-confidence-intervals.ptx" /> 
+
+    
 
 
     <!-- Include backmatter -->
