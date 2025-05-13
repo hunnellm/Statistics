@@ -32,6 +32,15 @@
     </statement>
   </definition>
 
+  <figure xml:id="image-test-fig">
+    <image width="80%">
+      <prefigure xmlns="https://prefigure.org" label="test-image">
+          <xi:include href="prefigure/test-image.xml"/>
+        </prefigure>
+    </image>
+    <caption>the caption</caption>
+  </figure>
+
   <example>
     <statement>
       <p>
