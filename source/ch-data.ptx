@@ -10,8 +10,8 @@
   <!-- include sections -->
   <xi:include href="sec-data-intro.ptx" />
 
-  <xi:include href="sec-examples.ptx" />
-  <xi:include href="sec-individuals.ptx" />
-  <xi:include href="sec-variables.ptx" />
+  <xi:include href="sec-data-examples.ptx" />
+  <xi:include href="sec-data-individuals.ptx" />
+  <xi:include href="sec-data-variables.ptx" />
 
 </chapter>

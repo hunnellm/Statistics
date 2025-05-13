@@ -19,6 +19,7 @@
     <xi:include href="./ch-pictures.ptx" /> 
     <xi:include href="./ch-descriptive.ptx" /> 
     <xi:include href="./ch-sampling.ptx" />
+    <xi:include href="./ch-normal.ptx" /> 
     <xi:include href="./ch-probability.ptx" /> 
     <xi:include href="./ch-sampling-distributions.ptx" /> 
     <xi:include href="./ch-hypothesis-tests.ptx" />  
