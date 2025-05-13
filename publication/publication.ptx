@@ -10,7 +10,7 @@
 <!-- make from the default values.                                        -->
 
 <publication>
-  <common>
+  <common> 
     <!-- Level at which are html files generated (chapter/section/etc): -->
       <!--<chunking level="1" />-->
 
