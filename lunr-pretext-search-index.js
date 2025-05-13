@@ -190,11 +190,20 @@ var ptx_lunr_docs = [
   "body": " Sampling   Let's get started by looking at the fundamental thing we study in the course, data.     "
 },
 {
+  "id": "ch-normal",
+  "level": "1",
+  "url": "ch-normal.html",
+  "type": "Chapter",
+  "number": "5",
+  "title": "Normal Distributions",
+  "body": " Normal Distributions   Let's get started by looking at the fundamental thing we study in the course, data.     "
+},
+{
   "id": "ch-probability",
   "level": "1",
   "url": "ch-probability.html",
   "type": "Chapter",
-  "number": "5",
+  "number": "6",
   "title": "Probability",
   "body": " Probability   Let's get started by looking at the fundamental thing we study in the course, data.     "
 },
@@ -203,7 +212,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-sampling-distributions.html",
   "type": "Chapter",
-  "number": "6",
+  "number": "7",
   "title": "Sampling Distributions",
   "body": " Sampling Distributions   Let's get started by looking at the fundamental thing we study in the course, data.     "
 },
@@ -212,7 +221,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-hypothesis-tests.html",
   "type": "Chapter",
-  "number": "7",
+  "number": "8",
   "title": "Hypothesis Testing",
   "body": " Hypothesis Testing   Let's get started by looking at the fundamental thing we study in the course, data.     "
 },
@@ -221,7 +230,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-confidence-intervals.html",
   "type": "Chapter",
-  "number": "8",
+  "number": "9",
   "title": "Confidence Intervals",
   "body": " Confidence Intervals   Let's get started by looking at the fundamental thing we study in the course, data.     "
 },
