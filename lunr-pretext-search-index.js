@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Kinds of Variables",
-  "body": " Kinds of Variables  We also need to make some distinctions between different kinds of variables. The reason is that we need different tools to interpret different kinds of data. For example, it makes sense to do mathematical operations, like taking an average, on numerical data values, like the heights of brothers. However, how would we take the average of the title of the brothers' favorite books?  Clearly we need different tools to make conclusions about these two fundamentally different kinds of variables. Let's formally define them. Warning: Some textbooks distinguish between many more kinds of variables. We will divide variables into only two types to keep focused on the most important ideas in statistics.    If a variable takes values that are numbers, and it makes sense to do mathematical operations on these numbers, the variable is called quantitative .      If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical operations on, the variable is called categorical .              "
+  "body": " Kinds of Variables  We also need to make some distinctions between different kinds of variables. The reason is that we need different tools to interpret different kinds of data. For example, it makes sense to do mathematical operations, like taking an average, on numerical data values, like the heights of brothers. However, how would we take the average of the title of the brothers' favorite books?  Clearly we need different tools to make conclusions about these two fundamentally different kinds of variables. Let's formally define them. Warning: Some textbooks distinguish between many more kinds of variables. We will divide variables into only two types to keep focused on the most important ideas in statistics.    If a variable takes values that are numbers, and it makes sense to do mathematical operations on these numbers, the variable is called quantitative .      If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical operations on, the variable is called categorical .        f(x)=2.5-x^2\/2  a = 1       (a,f(a))       the caption             "
 },
 {
   "id": "def-quantitative",
@@ -145,11 +145,20 @@ var ptx_lunr_docs = [
   "body": "  If a variables values are not numbers, or are numbers that it doesn't make sense to do mathematical operations on, the variable is called categorical .   "
 },
 {
-  "id": "sec-variables-6",
+  "id": "image-test-fig",
   "level": "2",
-  "url": "sec-variables.html#sec-variables-6",
-  "type": "Example",
+  "url": "sec-variables.html#image-test-fig",
+  "type": "Figure",
   "number": "1.4.3",
+  "title": "",
+  "body": "    f(x)=2.5-x^2\/2  a = 1       (a,f(a))       the caption  "
+},
+{
+  "id": "sec-variables-7",
+  "level": "2",
+  "url": "sec-variables.html#sec-variables-7",
+  "type": "Example",
+  "number": "1.4.4",
   "title": "",
   "body": "         "
 },
